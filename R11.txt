@@ -1,6 +1,14 @@
-Test Repo:
+Test Repo  :
 
-Start
+Start Process
+
+Validate 
+Compile
+Test
+Package
+Verify 
+Install
+Deploy
 
 
-End
+End Process
